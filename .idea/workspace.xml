@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84f72e79-a490-4922-bf56-4a51cdaa82b5" name="Default Changelist" comment="Early pagination" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="vanza" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="master" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2COOIpCrzqrR0nRLS7fnqMPb98T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Projects/tutorboot",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.tutorboot.models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\tutorboot\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TutorbootApplication">
+    <configuration name="TutorbootApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.tutorboot.TutorbootApplication" />
+      <module name="tutorboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tutorboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TutorbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tutorboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.tutorboot.TutorbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TutorbootApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84f72e79-a490-4922-bf56-4a51cdaa82b5" name="Default Changelist" comment="" />
+      <created>1658670091033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658670091033</updated>
+      <workItem from="1658670093513" duration="2806000" />
+      <workItem from="1658940387506" duration="4352000" />
+      <workItem from="1659016751106" duration="3328000" />
+      <workItem from="1659352140710" duration="4998000" />
+      <workItem from="1659447625408" duration="4218000" />
+      <workItem from="1659962603893" duration="7207000" />
+      <workItem from="1660045461056" duration="2848000" />
+      <workItem from="1660310687601" duration="3045000" />
+      <workItem from="1660494587263" duration="2566000" />
+      <workItem from="1660658880056" duration="3500000" />
+      <workItem from="1660734381159" duration="597000" />
+      <workItem from="1660736594401" duration="8181000" />
+      <workItem from="1660907640261" duration="6917000" />
+      <workItem from="1661106836823" duration="2437000" />
+      <workItem from="1661343400292" duration="14000" />
+    </task>
+    <task id="LOCAL-00001" summary="Message 1">
+      <created>1662994457893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662994457893</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Message 1">
+      <created>1662995718254</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662995718254</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Worked version">
+      <created>1663002330465</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663002330465</updated>
+    </task>
+    <task id="LOCAL-00004" summary="different users - different tasks">
+      <created>1663010809741</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663010809741</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Basic work with skills">
+      <created>1663182313684</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663182313684</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Basic work with exp/lvl">
+      <created>1663261057353</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663261057353</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Dropdown lists for skills &amp; difficulty">
+      <created>1663437219415</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663437219415</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Difficulties have been moved to a separate table (Finally!)">
+      <created>1663709022067</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663709022067</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Early pagination">
+      <created>1664309111881</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664309111881</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="prorok" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="Message" />
+    <MESSAGE value="Message 1" />
+    <MESSAGE value="Worked version" />
+    <MESSAGE value="different users - different tasks" />
+    <MESSAGE value="Basic work with skills" />
+    <MESSAGE value="Basic work with exp/lvl" />
+    <MESSAGE value="Dropdown lists for skills &amp; difficulty" />
+    <MESSAGE value="Difficulties have been moved to a separate table (Finally!)" />
+    <MESSAGE value="Early pagination" />
+    <option name="LAST_COMMIT_MESSAGE" value="Early pagination" />
+  </component>
+</project>
