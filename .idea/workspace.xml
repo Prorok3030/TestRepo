@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84f72e79-a490-4922-bf56-4a51cdaa82b5" name="Default Changelist" comment="Early pagination" />
+    <list default="true" id="84f72e79-a490-4922-bf56-4a51cdaa82b5" name="Default Changelist" comment="Early pagination (restored)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664309111881</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Early pagination (restored)">
+      <created>1664310991040</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664310991040</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +238,7 @@
     <MESSAGE value="Dropdown lists for skills &amp; difficulty" />
     <MESSAGE value="Difficulties have been moved to a separate table (Finally!)" />
     <MESSAGE value="Early pagination" />
-    <option name="LAST_COMMIT_MESSAGE" value="Early pagination" />
+    <MESSAGE value="Early pagination (restored)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Early pagination (restored)" />
   </component>
 </project>
